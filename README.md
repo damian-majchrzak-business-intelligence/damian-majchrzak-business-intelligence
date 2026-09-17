@@ -15,6 +15,9 @@ Poniżej znajdziesz moje najważniejsze projekty analityczne:
    * Dwustronicowy system analityczny dla korporacji zintegrowany z Azure SQL, plikami SAP i Excelem. Zaawansowane miary DAX (Time Intelligence: Daily, MTD, QTD, YTD, LFL/PY) oraz model finansowy (Actuals / Forecast / Budget).
 2. **[E-Commerce Sales Performance Dashboard (X-MPLE)](https://github.com/damian-majchrzak-business-intelligence/Analiza-Sprzeda-y-Sklepu-XMPLE)**
    * Interaktywny raport e-commerce monitorujący łączny przychód, liczbę zamówień oraz AOV w ujęciu globalnym z wykorzystaniem dedykowanych wskaźników KPI.
+3. [Analiza Polskiego Rynku Pracy (GUS)](https://github.com/damian-majchrzak-business-intelligence/analiza-rynku-pracy-gus)
+       * Interaktywny raport Power BI przedstawiający bezrobocie w Polsce (2021–2026) w ujęciu terytorialnym (województwa/powiaty) i czasowym.
+       * Dynamiczna logika DAX (TREATAS, SWITCH, rankingi Top/Bottom 5 z obsługą remisów), zwalidowany model danych oraz zaawansowany UX z dedykowanymi tooltipami kontekstowymi.
 
 ---
  
